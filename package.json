@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "home": "https://vinaykr4321.github.io/realtime-chatapp",
+  "homepage": "https://vinaykr4321.github.io/realtime-chatapp",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
